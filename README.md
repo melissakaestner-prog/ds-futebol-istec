@@ -13,8 +13,8 @@ Escolher um momento histórico e criar o **teu** ficheiro em `momentos/`, contan
 1. Aceita o convite de colaborador.
 2. Clona o repositório:
    ```bash
-   git clone <url-deste-repositorio>
-   cd momentos-futebol-istec
+   git clone https://github.com/melissakaestner-prog/ds-futebol-istec
+   cd ds-futebol-istec
    ```
 3. Cria o **teu** ficheiro `momentos/nome-apelido.md` (copia o `momentos/_MODELO.md`).
 4. Escreve o teu momento em Markdown.
@@ -36,7 +36,7 @@ Escolher um momento histórico e criar o **teu** ficheiro em `momentos/`, contan
 ## Estrutura
 
 ```
-momentos-futebol-istec/
+ds-futebol-istec/
 ├── README.md
 └── momentos/
     ├── _MODELO.md            ← modelo para copiar
