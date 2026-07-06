@@ -4,7 +4,7 @@
 **Onde:** <Stade_de_France, Saint-Denis, Paris>
 
 ## O que aconteceu
-<Portugal ganhou o euro tendo jogado de forma lastimavel>
+Portugal ganhou o euro tendo jogado de forma lastimavel
 
 ## Porque é histórico
 <Marcou o football Portugues>
