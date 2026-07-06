@@ -9,4 +9,4 @@
 ## Porque é histórico
 <Marcou o football Portugues>
 
-> Facto curioso: <Não sei nada de football>
+> Facto curioso: <Não sei nada de football.>
