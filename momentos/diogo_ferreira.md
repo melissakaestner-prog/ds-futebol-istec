@@ -11,4 +11,4 @@ Porque é histórico
 
 É considerado um dos melhores golos da carreira de Cristiano Ronaldo e um dos momentos mais memoráveis da história da Liga dos Campeões.
 
-Facto curioso: Poucos meses depois desse jogo, Cristiano Ronaldo assinou precisamente pela Juventus.
+Facto curioso: Poucos meses depois desse jogo, Cristiano Ronaldo assinou precisamente pela Juventus. teste
